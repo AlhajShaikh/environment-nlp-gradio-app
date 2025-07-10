@@ -1,0 +1,8 @@
+gradio
+transformers
+torch
+diffusers
+matplotlib
+accelerate
+safetensors
+Pillow
